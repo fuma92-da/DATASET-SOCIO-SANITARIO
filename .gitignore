@@ -1,0 +1,5 @@
+dataset_socio_sanitario.csv
+*.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
